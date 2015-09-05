@@ -1,2 +1,2 @@
-print(goodbye)
-print(rly goodbye)
+print(goodbye;)
+print(rly goodbye;)
